@@ -1,5 +1,7 @@
 # Project-1
 Disney Company Analysis
+
+
 Questions to be answered:
 Does the current stock price of Disney represent an under-valuation or over-valuation of the company? 
 Do the financial metrics (PE ratio, price to sales , price to book, net profit margin current ratio, debt to equity, debt to assests, gross profit,  and ROE) support the current or projected stock price of Disney?
